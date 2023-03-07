@@ -1,10 +1,9 @@
 ---
 layout: post
-start_end: "Dec, 2020 - Jun, 2021"
+start_end: "Feb, 2020 - Present"
 inline: true
 ---
 
-[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Remote), Beijing, China \
-*Research Intern*
-- Researched on domain generalization and referring image segmentation.
-- Mentor: Dr. Cuiling Lan
+[Computer Vision Lab](http://cvlab.postech.ac.kr/lab/), [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea \
+*Integrated M.S./Ph.D. student
+- Supervisor: Prof. [Jaesik Park](https://jaesik.info/)

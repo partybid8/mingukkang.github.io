@@ -1,9 +1,8 @@
 ---
 layout: post
-start_end: "Mar, 2011 - Feb, 2018"
+start_end: "Mar, 2013 - Aug, 2019"
 inline: true
 ---
 
-[Soongsil University](https://eng.ssu.ac.kr/), Seoul, South Korea \
-B.S. in  Electronic Engineering \
-Advisor: Prof. Dongsung Kim
+[Pusan National University](https://www.pusan.ac.kr/), Pusan, South Korea \
+B.S. in  Engineering

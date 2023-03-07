@@ -1,8 +1,9 @@
 ---
 layout: post
-start_end: "Mar, 2018 - Present"
+start_end: "Aug, 2017 - Jan, 2020"
 inline: true
 ---
 
-[Computer Vision Lab](http://cvlab.postech.ac.kr/lab/), [POSTECH](https://postech.ac.kr/), Pohang, South Korea \
-*Research and Teaching Assistant*
+[Vision and Intelligent System Lab](https://vislab.pusan.ac.kr/), [Pusan National University](https://www.pusan.ac.kr/), Pusan, South Korea \
+*Undergraduate Research Student
+- Supervisor: Prof. [Dongjoong Kang](https://vislab.pusan.ac.kr/visme/44915/subview.do)

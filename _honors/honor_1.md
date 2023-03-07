@@ -3,17 +3,14 @@ layout: post
 inline: true
 ---
 
-**POSTECHIAN Fellowship Award (2022)**
-- Winner ($5,000)
+**BK21 outstanding paper awards (2022)**
+- 1st prize ($750) \- *Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training* (Neurips2021)
 
-**NAVER Ph.D. Fellowship Award (2022)**
-- Winner ($4,000)
-  
-**Qualcomm Innovation Fellowship South Korea (2022)**
-- Winner ($3,000) \- *ReSTR: Convolution‑free Referring Image Segmentation Using Transformers* (CVPR2022)
+**Qualcomm Innovation Fellowship Korea (2021)**
+- Winner ($3,000) \- *ContraGAN: Contrastive Learning for Conditional Image Generation* (Neurips2020)
 
-**NAVER $$\times$$ POSTECH AI DAY (2022)**
-- The 2$$^{\textnormal{nd}}$$ and 3$$^{\textnormal{rd}}$$ Prize \- *ReSTR: Convolution‑free Referring Image Segmentation Using Transformers* (CVPR2022)
+**16th Samsung Electro­Mechanics Paper Awards (2020)**
+- Silver prize ($2,500)
 
-**The 26th HumanTech Paper Award, Samsung Electronics Co., Ltd. (2020)**
-- The Honorable Mention ($3,000) \- *Learning to Detect Semantic Boundaries with Image‑Level Class Labels* (IJCV2022)
+**National Science and Engineering Scholarship (2013-2019)**
+- Received full scholarship for 8 semesters ($15,000)
