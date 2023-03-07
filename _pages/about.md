@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 I am a 4th year Ph.D. student in Graduate School of AI at [POSTECH](https://postech.ac.kr/eng/), where I am a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/) under the supervision of Prof. [Jaesik Park](https://jaesik.info/). I received B.S. in Engineering at Pusan National University. 
 
 I focus on computer vision, particularly on the subject of generative modeling and how it can be applied. I am fascinated by the diverse range of vision-related tasks that Generative Adversarial Networks (GANs) can potentially assist with. If you would like to know more about the research projects that I am working on, do not hesitate to reach out to me.
+
+Email: mgkang@postech.ac.kr
