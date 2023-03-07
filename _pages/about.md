@@ -18,6 +18,6 @@ honors: true # includes a list of experience items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing my Ph.D degress at at the Graduate School of AI at [POSTECH](https://postech.ac.kr/eng/), where I am a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/) under the supervision of Prof. [Jaesik Park](https://jaesik.info/). I obtained my Bachelor of Science degree in Engineering from Pusan National University. 
+I am a 4th year Ph.D. student in Graduate School of AI at [POSTECH](https://postech.ac.kr/eng/), where I am a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/) under the supervision of Prof. [Jaesik Park](https://jaesik.info/). I received B.S. in Engineering at Pusan National University. 
 
-My research interests primarily focus on computer vision, particularly in the area of generative modeling. I am interested in exploring the use of Generative Adversarial Networks (GANs) to facilitate a wide range of vision applications. If you are interested in my research projects, please feel free to contact me.
+I focus on computer vision, particularly on the subject of generative modeling and how it can be applied. I am fascinated by the diverse range of vision-related tasks that Generative Adversarial Networks (GANs) can potentially assist with. If you would like to know more about the research projects that I am working on, do not hesitate to reach out to me.

@@ -5,4 +5,4 @@ inline: true
 ---
 
 [Pusan National University](https://www.pusan.ac.kr/), Pusan, South Korea \
-B.S. in  Engineering
+B.S. in  Engineering (Major: Mechanical Engineering and Minor: Statistics)
