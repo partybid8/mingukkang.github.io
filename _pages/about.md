@@ -22,4 +22,4 @@ I am a 4th year Ph.D. student in Graduate School of AI at [POSTECH](https://post
 
 I focus on computer vision, particularly on the subject of generative modeling and how it can be applied. I am fascinated by the diverse range of vision-related tasks that Generative Adversarial Networks (GANs) can potentially assist with. If you would like to know more about the research projects that I am working on, do not hesitate to reach out to me.
 
-Email: mgkang@postech.ac.kr
+Email: mingukkang1994@gmail.com, mgkang@postech.ac.kr
